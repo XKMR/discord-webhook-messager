@@ -1,0 +1,32 @@
+#namebox {
+    font-size: 18pt;
+    height: 40px;
+    width: 1500px;
+}
+
+#picbox {
+    font-size: 18pt;
+    height: 40px;
+    width: 1500px;
+}
+
+#cbox {
+    font-size: 18pt;
+    height: 200px;
+    width: 1500px;
+}
+
+#webx {
+    font-size: 18pt;
+    height: 40px;
+    width: 1500px;
+}
+button{
+    color: black;
+    background-color: Aqua;
+    padding: 30px 32px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
